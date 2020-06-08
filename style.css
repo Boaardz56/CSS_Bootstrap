@@ -1,0 +1,16 @@
+/* working with navbar */
+
+nav{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    background-color: #ffffff;
+    border-color: #666666;
+    border: auto;
+}
+
+
+.navbar-brand {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 10px;
+
+}
