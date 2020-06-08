@@ -1,9 +1,13 @@
 /* working with navbar */
+body {
+    background-image: url("../instructions/Assets/Images/hotel-wallpaper.png")
+}
 
-nav{
+.navbar navbar-expand-lg{
     font-family: 'Georgia', Times, Times New Roman, serif;
     background-color: #ffffff;
     border-color: #666666;
+    border-width: 1px;
     border: auto;
 }
 
@@ -13,4 +17,19 @@ nav{
     color: #ffffff;
     padding: 10px;
 
+}
+
+.aboutImg {
+    float: left;
+}
+
+hr {
+    background-color: black;
+}
+
+.footer {
+    position: fixed;
+    height: 50px;
+    width: 100%;
+    bottom: 0;
 }
