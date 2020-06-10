@@ -1,35 +1,67 @@
 /* working with navbar */
 body {
-    background-image: url("../instructions/Assets/Images/hotel-wallpaper.png")
+    background-image: url("../instructions/Assets/Images/vintage_speckles.png")
 }
 
-.navbar navbar-expand-lg{
+/*==================Navigation bar work =============== */
+
+.navbar{
     font-family: 'Georgia', Times, Times New Roman, serif;
     background-color: #ffffff;
-    border-color: #666666;
-    border-width: 1px;
-    border: auto;
+    border-bottom: 2px solid #cccccc;
+    padding: 15px;
 }
 
 
 .navbar-brand {
+    position: fixed;
+    top: -5px;
     background-color: #4aaaa5;
-    color: #ffffff;
-    padding: 10px;
-
+    color: white;
+    padding: 23px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-weight: bold;
+    line-height: 30px;
+    
 }
+
+/* ============== About Me section ================== */
+
+h3 {
+    background-color: #ffffff;
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-weight: bold;
+    line-height: 30px;
+    padding: 10px;
+  
+}
+
+hr {
+    border: 1px solid #cccccc;
+}
+
+/* ================ paragraph & image ========================= */
 
 .aboutImg {
     float: left;
 }
 
-hr {
-    background-color: black;
+.AboutMe {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-color: white;
+    border-color: #dddddd;
+
 }
+
+/* ===================== Footer ====================== */
 
 .footer {
     position: fixed;
-    height: 50px;
+    height: 80px;
     width: 100%;
     bottom: 0;
+    border-top: 4px solid #4aaaa5;
 }
