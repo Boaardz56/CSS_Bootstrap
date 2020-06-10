@@ -27,7 +27,7 @@ body {
     
 }
 
-/* ============== About Me section ================== */
+/* ============== Main Header and Border Section ================== */
 
 h3 {
     background-color: #ffffff;
@@ -43,7 +43,7 @@ hr {
     border: 1px solid #cccccc;
 }
 
-/* ================ paragraph & image ========================= */
+/* ================ About Me paragraph & image ========================= */
 
 .aboutImg {
     float: left;
@@ -56,6 +56,22 @@ hr {
 
 }
 
+/* ================== Contact section =================================== */
+
+.Submitbtn {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 10px 35px;
+    text-align: center;
+    font-size: 16px;
+    display: inline-block;
+    border: none;
+}
+
+
+
+
+
 /* ===================== Footer ====================== */
 
 .footer {
@@ -63,5 +79,5 @@ hr {
     height: 80px;
     width: 100%;
     bottom: 0;
-    border-top: 4px solid #4aaaa5;
+    border-top: 6px solid #4aaaa5;
 }
