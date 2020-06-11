@@ -32,6 +32,10 @@ body {
     
 }
 
+.navbar-toggler {
+    color: grey;
+}
+
 /* ============== Main Header and Border Section ================== */
 
 h3 {
@@ -41,11 +45,17 @@ h3 {
     font-weight: bold;
     line-height: 30px;
     padding: 10px;
+    border: auto;
+    border-color: #cccccc;
   
 }
 
 hr {
     border: 1px solid #cccccc;
+}
+
+#main {
+    float: left
 }
 
 /* ================ About Me paragraph & image ========================= */
@@ -138,10 +148,10 @@ hr {
 }
 
 
-@media only screen and (max-width: 768x) {
 
-.col-sm-6 {
-    width: 100%;
-}
-
-}
+@media only screen and (max-width: 600px) {
+        #main {
+        width: 90%;
+    }
+      }
+     
