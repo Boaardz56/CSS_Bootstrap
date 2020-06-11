@@ -16,9 +16,9 @@ No installation is needed for utilizing Bootstrap, just simply go to [a link](ht
 
 ## Usage
 
-![About](https://onedrive.live.com/?cid=D7F745F97431E772&id=D7F745F97431E772%215844&parId=D7F745F97431E772%21146&o=OneUp)
-![Portfolio](file:///C:/Users/jacki/Documents/UCF/Homework/02-CSS-Bootstrap/CSS_Bootstrap/portfolio.html)
-![Contact](file:///C:/Users/jacki/Documents/UCF/Homework/02-CSS-Bootstrap/CSS_Bootstrap/contact.html)
+![About](C:\Users\jacki\Documents\UCF\Homework\02-CSS-Bootstrap\instructions\Assets\Images\About.png)
+![Portfolio](C:\Users\jacki\Documents\UCF\Homework\02-CSS-Bootstrap\instructions\Assets\Images\Portfolio.png)
+![Contact](C:\Users\jacki\Documents\UCF\Homework\02-CSS-Bootstrap\instructions\Assets\Images\Contact.png)
 
 ## Credits
 
