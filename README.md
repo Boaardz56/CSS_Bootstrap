@@ -2,31 +2,26 @@
 
 ## Description
 
-First, you will use the Bootstrap CSS Framework to create a mobile responsive portfolio. How do you deliver this? Here are some guidelines:
+We worked with Bootstrap CSS Framework, [Bootstrap](https://getbootstrap.com/), create a mobile responsive portfolio. In order to properly format and link the files created together, three different html workspaces were created utilizing the program Visual Studio Code. 
 
-Create the following files files: index.html, portfolio.html and contact.html.
+All the workspaces utilized a navigation bar that ran across the top of the page. Using Bootstrap, an interactive navigation bar was pulled to work with a mobile phone as well. An About, Portfolio, and Contact page were all created. 
 
-Using Bootstrap, develop your portfolio site with the following items:
-
-A navbar
-
-A responsive layout
-
-Responsive images
-
-The Bootstrap portfolio should minimize the use of media queries.
-
-Screenshots are provided as a reference in the Assets/Images folder. Your app does not need to be exactly like the images. Use Bootstrap to create a similar, responsive layout.
+In the About section, an image is shown along with some filler text that can be changed once a biography is built. The Portfolio section showcases five different portfolio images that will eventually have a responsive link where the header was placed. The Contact section utilized a form in order to have a user send a message with their name and email address information attached.
 
 ## Installation
 
-Use Visual Studio Code and Bootstrap online
+In order to start creating a more accessible website, downloading Visual Studio Code is necessary. Simply go to their website at [Visual Studio Code](https://code.visualstudio.com/) . You can follow the steps to download on Windows or Mac. Once the program is downloaded, you can transfer files in to start working on the html and css workspaces.
+
+No installation is needed for utilizing Bootstrap, just simply go to [a link](https://getbootstrap.com/) to and make sure to copy the CSS link for all the formatting to work!
 
 ## Usage
 
-
+![About](https://onedrive.live.com/?cid=D7F745F97431E772&id=D7F745F97431E772%215844&parId=D7F745F97431E772%21146&o=OneUp)
+![Portfolio](file:///C:/Users/jacki/Documents/UCF/Homework/02-CSS-Bootstrap/CSS_Bootstrap/portfolio.html)
+![Contact](file:///C:/Users/jacki/Documents/UCF/Homework/02-CSS-Bootstrap/CSS_Bootstrap/contact.html)
 
 ## Credits
 
-Bootstrap
+* [GitHub Guide](https://guides.github.com/features/mastering-markdown/)
+
 
