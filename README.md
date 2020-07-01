@@ -1,8 +1,8 @@
-# CSS_Bootstrap
+# Portfolio
 
 ## Description
 
-We worked with Bootstrap CSS Framework, [Bootstrap](https://getbootstrap.com/), create a mobile responsive portfolio. In order to properly format and link the files created together, three different html workspaces were created utilizing the program Visual Studio Code. 
+Worked with Bootstrap CSS Framework, [Bootstrap](https://getbootstrap.com/), create a mobile responsive portfolio. In order to properly format and link the files created together, three different html workspaces were created utilizing the program Visual Studio Code. 
 
 All the workspaces utilized a navigation bar that ran across the top of the page. Using Bootstrap, an interactive navigation bar was pulled to work with a mobile phone as well. An About, Portfolio, and Contact page were all created. 
 
