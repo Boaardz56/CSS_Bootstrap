@@ -81,6 +81,18 @@ hr {
     padding-top: 10px;
 }
 
+.card-title {
+    text-align: center ;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.list-group {
+    text-align: center;
+}
+
 /* ================== Contact section =================================== */
 
 .form {
@@ -136,7 +148,20 @@ hr {
     margin: 15px;
 }
 
-
+a:link {
+    color: #4aaaa5;
+    background-color: transparent;
+    text-decoration: none;
+    margin-left: 35px;
+    font-weight: bold;
+  }
+  
+  a:visited {
+    color: purple;
+    background-color: transparent;
+    text-decoration: none;
+    font-weight: bold;
+  }
 /* ===================== Footer ====================== */
 
 .footer {
