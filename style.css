@@ -64,8 +64,8 @@ hr {
     float: left;
     width: 200px;
     height: 220px;
-    margin: 20px;
-    margin-left: 40px;
+    margin: 5px;
+    margin-left: 53px;
 }
 
 .AboutMe {
@@ -81,9 +81,13 @@ hr {
     line-height: 30px;
     padding-top: 10px;
 }
-
+.card-body1 {
+    margin-left: 1px;
+    margin-bottom: 8px;
+}
 .card-title {
     text-align: center ;
+    margin: 3px;
 }
 
 .card-text {
@@ -112,7 +116,8 @@ a:visited {
   }
 
   .card-link {
-      margin-right: 30px;
+     float: left;
+     text-align: left;
   }
 
 /* ================== Contact section =================================== */
@@ -150,11 +155,25 @@ a:visited {
     z-index: 10;
 }
 
+.portfolioHeading2 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    float: left;
+    margin-top: 70px; 
+    padding: 20px 108px 20px 109px;
+    position: absolute;
+    top: 100px;
+    left: 30px;
+    z-index: 10;
+}
+
 #infoWidget {
     padding-right: 94px;
 }
 
-#rpgGames {
+#quiz {
     padding-right: 93px;
 }
 
