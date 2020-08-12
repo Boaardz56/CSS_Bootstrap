@@ -189,6 +189,16 @@ a:visited {
     margin: 15px;
 }
 
+.undergroundImg {
+    position: relative;
+    width: 323px;
+    height: 240px;
+    margin: 15px;
+}
+
+#row2 {
+    margin-bottom: 100px;
+}
 
 /* ===================== Footer ====================== */
 
